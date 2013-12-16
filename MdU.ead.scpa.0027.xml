@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" findaidstatus="Abstract"><eadid countrycode="iso3611-1" mainagencycode="MdU">MdU.ead.scpa.0027</eadid> 
+<filedesc> 
+<titlestmt> 
+<titleproper>College Band Directors National Association Archives: A Finding Aid</titleproper> 
+<author>Patrick Warfield and Kevin Pace, April 2005.</author>
+<sponsor></sponsor>
+</titlestmt>
+<publicationstmt>
+<publisher>University of Maryland Libraries</publisher>
+<address><addressline>Special Collections in Performing Arts, Michelle Smith Performing Arts Library, Clarice Smith Performing Arts Center, University of Maryland, College Park, MD 20742. Contact the curator: http://www.lib.umd.edu/scpa/contact
+</addressline></address>
+<date>2005-04-01</date>
+<p>&#169;University of Maryland Libraries. All Rights Reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>EAD markup created using EAD database in Microsoft Access. Markup completed by Colleen McKnight, August 2007<date>2007-08-07</date>
+</creation>
+<langusage>Finding aid written in <language langcode="eng">English</language></langusage></profiledesc>
+<revisiondesc>
+<change><date>2008-05-06</date><item>EAD markup checked and verified using JEdit software by Jennie A. Levine, May 2008.</item></change>
+<change><date>2008-06-19</date><item>EAD markup checked and verified using JEdit software by Jennie A. Levine, June 2008.</item></change>
+</revisiondesc>
+</eadheader><archdesc level="collection" type="combined">
+<did id="did_2028024769">
+<head>Brief Description of the Collection</head>
+<repository label="Repository"><corpname encodinganalog="852$a">Special Collections in Performing Arts</corpname><address><addressline>Special Collections in Performing Arts, Michelle Smith Performing Arts Library, Clarice Smith Performing Arts Center, University of Maryland, College Park, MD 20742. Contact the curator: http://www.lib.umd.edu/scpa/contact</addressline></address></repository>
+<origination label="Papers/Records Created By"><corpname encodinganalog="110">College Band Directors National Association (CBDNA)</corpname></origination>
+<unittitle label="Title of the Collection" encodinganalog="245$a">College Band Directors National Association Archives</unittitle>
+<unitdate type="inclusive" label="Dates of the Collection" encodinganalog="245$f">1941-present</unitdate><unitdate type="bulk" label="Bulk Dates" encodinganalog="245$g">1941-present</unitdate><physdesc label="Size of the Collection" encodinganalog="300$a">15.00 Linear Feet</physdesc><unitid countrycode="us" encodinganalog="099">0</unitid>
+<physloc audience="internal">SCPA Collections Room:</physloc>
+<abstract label="Short Description of Collection" encodinganalog="520$a">The College Band Directors National Association (CBDNA) began its existence as a committee of the Music Educators National Conference (MENC). The Committee on College and University Music was so dominated by band directors in the mid-1930s that it soon became known as the Committee on College and University Bands. In the fall of 1938 that committee, under the leadership of William Revelli, met independently in Chicago. The group met again in December 1941 and formed the University and College Band Conductors Conference. The name of the organization was changed to the College Band Directors National Association in 1947. The archives contain administrative records, correspondence and information bulletins, membership listings, financial records, committee reports, surveys, questionnaires, publications, articles, conference programs and proceedings, photographs, and oral histories related to the CBDNA's mission of the teaching, performance, study and cultivation of music, with particular focus on the wind band milieu. More details about the organization of this collection can be found <archref href="http://lib.guides.umd.edu/content.php?pid=187541&amp;sid=2526863">here</archref>.</abstract>
+<abstract type="MUS">The College Band Directors National Association (CBDNA) began its existence as a committee of the Music Educators National Conference (MENC). The Committee on College and University Music was so dominated by band directors in the mid-1930s that it soon became known as the Committee on College and University Bands. In the fall of 1938 that committee, under the leadership of William Revelli, met independently in Chicago. The group met again in December 1941 and formed the University and College Band Conductors Conference. The name of the organization was changed to the College Band Directors National Association in 1947. The archives contain administrative records, correspondence and information bulletins, membership listings, financial records, committee reports, surveys, questionnaires, publications, articles, conference programs and proceedings, photographs, and oral histories related to the CBDNA's mission of the teaching, performance, study and cultivation of music, with particular focus on the wind band milieu. More details about the organization of this collection can be found <archref href="http://lib.guides.umd.edu/content.php?pid=187541&amp;sid=2526863">here</archref>.</abstract>
+<abstract type="MSED">The College Band Directors National Association (CBDNA) began its existence as a committee of the Music Educators National Conference (MENC). The Committee on College and University Music was so dominated by band directors in the mid-1930s that it soon became known as the Committee on College and University Bands. In the fall of 1938 that committee, under the leadership of William Revelli, met independently in Chicago. The group met again in December 1941 and formed the University and College Band Conductors Conference. The name of the organization was changed to the College Band Directors National Association in 1947. The archives contain administrative records, correspondence and information bulletins, membership listings, financial records, committee reports, surveys, questionnaires, publications, articles, conference programs and proceedings, photographs, and oral histories related to the CBDNA's mission of the teaching, performance, study and cultivation of music, with particular focus on the wind band milieu. More details about the organization of this collection can be found <archref href="http://lib.guides.umd.edu/content.php?pid=187541&amp;sid=2526863">here</archref>.</abstract>
+<abstract type="BHIS">The College Band Directors National Association (CBDNA) began its existence as a committee of the Music Educators National Conference (MENC). The Committee on College and University Music was so dominated by band directors in the mid-1930s that it soon became known as the Committee on College and University Bands. In the fall of 1938 that committee, under the leadership of William Revelli, met independently in Chicago. The group met again in December 1941 and formed the University and College Band Conductors Conference. The name of the organization was changed to the College Band Directors National Association in 1947. The archives contain administrative records, correspondence and information bulletins, membership listings, financial records, committee reports, surveys, questionnaires, publications, articles, conference programs and proceedings, photographs, and oral histories related to the CBDNA's mission of the teaching, performance, study and cultivation of music, with particular focus on the wind band milieu. More details about the organization of this collection can be found <archref href="http://lib.guides.umd.edu/content.php?pid=187541&amp;sid=2526863">here</archref>.</abstract>
+<abstract type="PART">The College Band Directors National Association (CBDNA) began its existence as a committee of the Music Educators National Conference (MENC). The Committee on College and University Music was so dominated by band directors in the mid-1930s that it soon became known as the Committee on College and University Bands. In the fall of 1938 that committee, under the leadership of William Revelli, met independently in Chicago. The group met again in December 1941 and formed the University and College Band Conductors Conference. The name of the organization was changed to the College Band Directors National Association in 1947. The archives contain administrative records, correspondence and information bulletins, membership listings, financial records, committee reports, surveys, questionnaires, publications, articles, conference programs and proceedings, photographs, and oral histories related to the CBDNA's mission of the teaching, performance, study and cultivation of music, with particular focus on the wind band milieu. More details about the organization of this collection can be found <archref href="http://lib.guides.umd.edu/content.php?pid=187541&amp;sid=2526863">here</archref>.</abstract>
+<abstract type="musclass">The College Band Directors National Association (CBDNA) began its existence as a committee of the Music Educators National Conference (MENC). The Committee on College and University Music was so dominated by band directors in the mid-1930s that it soon became known as the Committee on College and University Bands. In the fall of 1938 that committee, under the leadership of William Revelli, met independently in Chicago. The group met again in December 1941 and formed the University and College Band Conductors Conference. The name of the organization was changed to the College Band Directors National Association in 1947. The archives contain administrative records, correspondence and information bulletins, membership listings, financial records, committee reports, surveys, questionnaires, publications, articles, conference programs and proceedings, photographs, and oral histories related to the CBDNA's mission of the teaching, performance, study and cultivation of music, with particular focus on the wind band milieu. More details about the organization of this collection can be found <archref href="http://lib.guides.umd.edu/content.php?pid=187541&amp;sid=2526863">here</archref>.</abstract>
+</did>
+<descgrp id="des_1809405119">
+<head>Important Information for Users of the Collection</head><accessrestrict encodinganalog="506">
+<head>Use and Access to Collection</head><p>The collection is open for research use.</p>
+</accessrestrict>
+<acqinfo audience ="external" encodinganalog="541">
+<head>Custodial History and Acquisition Information</head>
+<p>null</p></acqinfo>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>College Band Directors National Association Archives, Special Collections, University of Maryland Libraries.</p>
+</prefercite>
+<processinfo encodinganalog="583">
+<p></p></processinfo>
+<userestrict encodinganalog="540">
+<head>Duplication and Copyright Information</head>
+<p>Materials from this collection must be used in the Michelle Smith Performing Arts Library's Irving and Margery Morgan Lowens Special Collections Room, 10:00 am to 5:00 pm, Monday through Friday. Contact the curator for an appointment: http://www.lib.umd.edu/scpa/contact</p>
+</userestrict>
+</descgrp>
+<bioghist id="bio_104823145" encodinganalog="545"><head>null</head><p></p></bioghist>
+<scopecontent id="sc_2010755160" encodinganalog="520">
+<head>Scope and Content of Collection</head>
+<p>The College Band Directors National Association Archives (CBDNA) covers the period from 1941 to present. The archives contain administrative records, correspondence and information bulletins, membership listings, financial records, committee reports, surveys, questionnaires, publications, articles, conference programs and proceedings, photographs, and oral histories related to the CBDNA's mission of the teaching, performance, study and cultivation of music, with particular focus on the wind band milieu.</p></scopecontent>
+<arrangement id="arr_1886154428" encodinganalog="351">
+<p>null</p>
+<list>
+<item></item></list>
+</arrangement>
+<relatedmaterial id="rm_979950118" encodinganalog="544">
+<head>Related Material</head>
+<p>For other related archival and manuscript collections, please see the following <archref xpointer="rguide">subject guides</archref>.</p>
+</relatedmaterial>
+<controlaccess id="ca_1787975104"><head>Selected Search Terms</head>
+<p>This collection is indexed under the following headings in the University of Maryland Libraries' <extref href="http://catalog.umd.edu/">Catalog</extref>. Researchers desiring related materials about these topics, names, or places may search the Catalog using these headings.</p></controlaccess>
+</archdesc></ead>
